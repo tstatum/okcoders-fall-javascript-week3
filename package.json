@@ -1,0 +1,25 @@
+{
+  "name": "okcoders-fall-javascript-week3",
+  "version": "1.0.0",
+  "description": "week3okcodersjavascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tstatum/okcoders-fall-javascript-week3.git"
+  },
+  "keywords": [
+    "week3java"
+  ],
+  "author": "trinity",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tstatum/okcoders-fall-javascript-week3/issues"
+  },
+  "homepage": "https://github.com/tstatum/okcoders-fall-javascript-week3#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
